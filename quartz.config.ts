@@ -8,17 +8,14 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "AI Box Homepage",
+    pageTitle: "AI Box",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: 'umami', host: 'aibox.io.vn', websiteId: '08569d37-f876-4232-bed7-156028f5888f', 
+      provider: 'umami', host: 'analytics.on.io.vn', websiteId: '08569d37-f876-4232-bed7-156028f5888f',
     },
-    analytics: {
-      provider: 'google', tagId: 'G-D6KLE845CW',
-    },
-    locale: "vi-VN",
+    locale: "en-US",
     baseUrl: "aibox.io.vn",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",

@@ -1,6 +1,6 @@
 ---
 title: CSM AI - 3D World Models
-draft: true
+draft: false
 tags:
   - paid
   - trial
