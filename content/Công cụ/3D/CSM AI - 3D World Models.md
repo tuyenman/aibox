@@ -1,5 +1,5 @@
 ---
-title: 
+title: CSM AI - 3D World Models
 draft: true
 tags:
   - paid
