@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: 'umami', host: 'analytics.on.io.vn', websiteId: '08569d37-f876-4232-bed7-156028f5888f',
+      provider: 'google', tagId: 'G-D6KLE845CW',
     },
     locale: "en-US",
     baseUrl: "aibox.io.vn",

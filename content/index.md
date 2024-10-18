@@ -13,7 +13,7 @@ Hi vọng trang web này giúp ích cho các bạn. Dưới đây là những n�
 
 ## Tags
 
- [[tags/Free]]  |  [[tags/Paid]]  |  [[tags/Trial]] 
+ [[tags/free|Free]]  |  [[tags/paid|Paid]]  |  [[tags/trial|Trial]] 
 ## Tổng hợp các công cụ AI
 
  [[Công cụ/3D/index|3D]] | [[Công cụ/Chatbot/index|Chatbot]]
