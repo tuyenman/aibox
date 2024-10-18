@@ -1,8 +1,19 @@
 ---
-title: AI Box - Cập nhật xu hướng AI
+title: AI Box - Cập nhật xu hướng AI cùng bạn
+draft: false
 ---
-Xin chào các bạn, đây là AI Box - trang thông tin tổng hợp các công cụ AI đang được sử dụng trên toàn thế giới ở các lĩnh vực khác nhau. 
+
+Xin chào các bạn, đây là AI Box - trang thông tin tổng hợp các [[Công cụ/index|công cụ AI]] đang được sử dụng trên toàn thế giới ở các lĩnh vực khác nhau. Từ các sản phẩm [[tags/Free|miễn phí]], [[tags/Paid|trả phí]] và các sản phẩm có chính sách [[tags/Trial|dùng thử]].
+
+Ngoài ra ở đây lâu lâu cũng có vài [[Blog/index|bài viết chém gió]] vô tội vạ mỗi khi ông assmin thấy có hứng và tất nhiên cũng không gì ngoài chủ đề AI
 
 Tôi tạo ra trang này chỉ đơn giản vì thích vọc vạch và tình cờ thấy lĩnh vực AI này quá rộng lớn và cũng muốn tìm tòi thêm kiến thức.
 
-Hi vọng trang web này giúp ích cho các bạn.
+Hi vọng trang web này giúp ích cho các bạn. Dưới đây là những nội dung chính của website.
+
+## Tags
+
+ [[tags/Free]]  |  [[tags/Paid]]  |  [[tags/Trial]] 
+## Tổng hợp các công cụ AI
+
+ [[Công cụ/3D/index|3D]] | [[Công cụ/Chatbot/index|Chatbot]]

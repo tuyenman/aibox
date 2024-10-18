@@ -1,4 +1,5 @@
 ---
-title: "Danh mục: 3D"
-draft: true
+title: 3D
+draft: false
 ---
+> Các công cụ AI liên quan đến 3D
