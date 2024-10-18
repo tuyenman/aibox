@@ -69,4 +69,84 @@ tags:
 - **Gói tiêu chuẩn**: Gói trả phí bắt đầu từ $99/tháng, bao gồm khả năng xử lý nhiều video và chuyển động.
 - **Gói doanh nghiệp**: Các gói tùy chỉnh với khả năng xử lý không giới hạn và các tính năng cao cấp hơn, giá cả linh hoạt theo nhu cầu sử dụng.
 
+## Câu hỏi thường gặp
 
+### 1. **Move AI là gì?**
+
+- Move AI là công cụ motion capture sử dụng AI để chuyển đổi chuyển động từ video thành dữ liệu chuyển động 3D mà không cần thiết bị cảm biến hay bộ quần áo chuyên dụng.
+
+### 2. **Move AI có yêu cầu thiết bị phần cứng đặc biệt không?**
+
+- Không, Move AI chỉ cần video từ các thiết bị ghi hình thông thường và không yêu cầu thiết bị đeo hay cảm biến.
+
+### 3. **Move AI có thể sử dụng để bắt chuyển động cho nhiều người cùng lúc không?**
+
+- Hiện tại, Move AI chỉ hỗ trợ bắt chuyển động cho một người trong mỗi video. Nếu có nhiều người trong cảnh, bạn cần quay từng người riêng biệt.
+
+### 4. **Move AI có cần phải quay video từ nhiều góc không?**
+
+- Để đạt được kết quả tốt nhất, Move AI khuyến nghị sử dụng nhiều góc quay khác nhau để tạo ra chuyển động chính xác nhất.
+
+### 5. **Tôi có thể sử dụng Move AI để tạo chuyển động cho nhân vật ảo không?**
+
+- Có, Move AI tạo ra dữ liệu chuyển động 3D mà bạn có thể sử dụng để điều khiển các nhân vật ảo trong các dự án game hoặc hoạt hình.
+
+### 6. **Move AI có hỗ trợ định dạng tệp nào?**
+
+- Move AI xuất các tệp chuyển động dưới dạng FBX và BVH, là các định dạng phổ biến trong phát triển game và hoạt hình.
+
+### 7. **Video cần có chất lượng như thế nào để sử dụng với Move AI?**
+
+- Video cần có độ phân giải tối thiểu Full HD (1080p) và phải có ánh sáng đủ tốt để nhận diện chuyển động chính xác.
+
+### 8. **Move AI có tích hợp với Unity hoặc Unreal Engine không?**
+
+- Có, các tệp xuất từ Move AI có thể được tích hợp dễ dàng vào Unity và Unreal Engine.
+
+### 9. **Move AI có cần cài đặt phần mềm không?**
+
+- Không, Move AI hoạt động trên nền tảng đám mây và không yêu cầu cài đặt phần mềm.
+
+### 10. **Move AI có miễn phí không?**
+
+- Move AI cung cấp gói dùng thử miễn phí nhưng có giới hạn về số lượng cảnh quay và độ phức tạp của chuyển động.
+
+### 11. **Tôi có thể chỉnh sửa chuyển động sau khi tạo bằng Move AI không?**
+
+- Có, bạn có thể chỉnh sửa các tệp chuyển động đã xuất bằng các phần mềm hoạt hình và 3D như Blender, Maya.
+
+### 12. **Move AI có hỗ trợ thời gian thực không?**
+
+- Không, Move AI chỉ hỗ trợ xử lý chuyển động từ các video đã quay trước, không phải phân tích thời gian thực.
+
+### 13. **Move AI có hỗ trợ phân tích chuyển động cho các động vật không?**
+
+- Hiện tại, Move AI chủ yếu tập trung vào phân tích chuyển động của con người, chưa hỗ trợ tốt cho chuyển động của động vật.
+
+### 14. **Move AI có phù hợp cho các dự án game indie không?**
+
+- Có, Move AI là giải pháp chi phí thấp và dễ tiếp cận cho các nhà phát triển game indie để tạo các chuyển động nhân vật.
+
+### 15. **Có giới hạn nào về kích thước tệp video tải lên không?**
+
+- Gói dùng thử và các gói cơ bản của Move AI có giới hạn về dung lượng và độ dài video. Các gói cao cấp hỗ trợ video có kích thước lớn hơn.
+
+### 16. **Move AI có hỗ trợ các dự án VR và AR không?**
+
+- Có, Move AI hỗ trợ xuất các tệp chuyển động phù hợp cho các dự án thực tế ảo (VR) và thực tế tăng cường (AR).
+
+### 17. **Move AI có hỗ trợ nhúng mô hình vào trang web không?**
+
+- Không, Move AI chỉ cung cấp dữ liệu chuyển động 3D để sử dụng trong các phần mềm phát triển khác, không hỗ trợ nhúng trực tiếp.
+
+### 18. **Move AI có hỗ trợ làm việc nhóm không?**
+
+- Hiện tại, Move AI không cung cấp tính năng cộng tác trực tuyến, nhưng các tệp xuất có thể được chia sẻ giữa các thành viên nhóm.
+
+### 19. **Tôi có thể dùng video từ điện thoại di động để tạo chuyển động không?**
+
+- Có, miễn là video có độ phân giải cao và đối tượng di chuyển rõ ràng, bạn có thể sử dụng video từ điện thoại di động.
+
+### 20. **Move AI có tích hợp API cho doanh nghiệp không?**
+
+- Có, Move AI cung cấp API cho các doanh nghiệp và nhà phát triển muốn tích hợp hệ thống vào các dự án của họ.
