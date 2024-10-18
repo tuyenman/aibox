@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: 'umami', host: 'analytics.on.io.vn', websiteId: '08569d37-f876-4232-bed7-156028f5888f',
+      provider: 'umami', host: 'aibox.io.vn', websiteId: '08569d37-f876-4232-bed7-156028f5888f',
     },
     locale: "en-US",
     baseUrl: "aibox.io.vn",
@@ -69,7 +69,10 @@ const config: QuartzConfig = {
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
-      Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
+      Plugin.CrawlLinks({ 
+        markdownLinkResolution: "shortest",
+        openLinksInNewTab: true,
+       }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
