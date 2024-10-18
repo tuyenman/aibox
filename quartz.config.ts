@@ -8,23 +8,26 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "AI Box Homepage",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: 'umami', host: 'aibox.io.vn', websiteId: '08569d37-f876-4232-bed7-156028f5888f', 
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    analytics: {
+      provider: 'google', tagId: 'G-D6KLE845CW',
+    },
+    locale: "vi-VN",
+    baseUrl: "aibox.io.vn",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Roboto",
+        body: "Roboto",
         code: "IBM Plex Mono",
       },
       colors: {
