@@ -5,6 +5,7 @@ tags:
   - free
   - paid
   - trial
+  - 3D
 ---
 **OpenDream** là một công cụ AI mạnh mẽ giúp tạo ra các hình ảnh và tác phẩm nghệ thuật độc đáo từ văn bản. Người dùng chỉ cần nhập mô tả bằng từ ngữ, AI sẽ chuyển đổi chúng thành những hình ảnh hoặc tác phẩm nghệ thuật phù hợp. Công nghệ AI của OpenDream rất phù hợp cho các nhà thiết kế, nghệ sĩ, nhà sáng tạo nội dung và những người muốn tạo ra các tác phẩm đồ họa sáng tạo mà không cần có kỹ năng chuyên sâu về đồ họa.
 

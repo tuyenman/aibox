@@ -5,6 +5,7 @@ tags:
   - free
   - paid
   - trial
+  - 3D
 ---
 **Meshy** là một công cụ AI tập trung vào việc tối ưu hóa và tạo ra các tệp dữ liệu 3D dạng lưới (mesh). Công cụ này đặc biệt hữu ích cho những người làm việc trong lĩnh vực thiết kế đồ họa, trò chơi điện tử, kiến trúc, và các ngành nghề liên quan đến hình ảnh 3D. Meshy sử dụng các thuật toán tiên tiến để giảm dung lượng tệp mà vẫn giữ được chất lượng cao nhất, giúp các nhà thiết kế làm việc hiệu quả hơn với tài nguyên 3D.
 

@@ -4,6 +4,7 @@ draft: false
 tags:
   - paid
   - trial
+  - 3D
 ---
 **Luma AI Dream Machine** là một công cụ AI tiên tiến cho phép người dùng chuyển đổi hình ảnh tĩnh và video thành mô hình 3D sống động và chân thực. Sử dụng công nghệ AI, công cụ này tự động tạo ra các mô hình 3D từ dữ liệu hình ảnh mà không yêu cầu kiến thức chuyên sâu về đồ họa. Luma AI Dream Machine được thiết kế cho các nhà phát triển, kiến trúc sư, nhà thiết kế trò chơi và những người làm việc trong lĩnh vực thực tế ảo (VR), thực tế tăng cường (AR), và các dự án đồ họa 3D.
 

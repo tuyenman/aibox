@@ -4,6 +4,7 @@ draft: false
 tags:
   - paid
   - trial
+  - 3D
 ---
 **NewArc.ai** là một công cụ AI tiên tiến hỗ trợ tự động hóa quy trình thiết kế kiến trúc, giúp các kiến trúc sư và nhà thiết kế xây dựng tạo ra các bản vẽ và mô hình kiến trúc nhanh chóng và chính xác hơn. Sử dụng AI và học máy, NewArc.ai phân tích các yêu cầu dự án và tạo ra các mô hình 2D, 3D tùy chỉnh, từ đó giảm thời gian thiết kế và tối ưu hóa quá trình xây dựng. Công cụ này rất phù hợp cho các kiến trúc sư, kỹ sư xây dựng, và các công ty phát triển bất động sản muốn tối ưu hóa quy trình làm việc của mình.
 

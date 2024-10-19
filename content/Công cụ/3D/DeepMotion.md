@@ -4,6 +4,7 @@ draft: false
 tags:
   - paid
   - trial
+  - 3D
 ---
 **DeepMotion** là một công cụ AI mạnh mẽ chuyên cung cấp các giải pháp chuyển động 3D tự động từ video (AI-powered motion capture). Nó cho phép chuyển đổi các đoạn video thành chuyển động nhân vật 3D, hỗ trợ nhiều ngành nghề khác nhau như phát triển trò chơi, điện ảnh, và thiết kế nhân vật 3D. DeepMotion đặc biệt phù hợp cho những người làm trong lĩnh vực đồ họa chuyển động, phim hoạt hình và thực tế ảo.
 

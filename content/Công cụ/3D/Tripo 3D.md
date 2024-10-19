@@ -4,6 +4,7 @@ draft: false
 tags:
   - paid
   - trial
+  - 3D
 ---
 **Tripo 3D** là một nền tảng tạo và chỉnh sửa mô hình 3D chuyên dụng dành cho các nhà phát triển trò chơi, kiến trúc sư và các nhà thiết kế nội thất. Sử dụng công nghệ AI tiên tiến, Tripo 3D cho phép người dùng dễ dàng tạo dựng các mô hình 3D từ bản vẽ kỹ thuật hoặc hình ảnh. Tripo 3D giúp tối ưu hóa quy trình thiết kế, cung cấp các công cụ đơn giản nhưng mạnh mẽ, giúp người dùng sáng tạo và phát triển các mô hình 3D nhanh chóng mà không cần phải có kỹ năng chuyên sâu về đồ họa.
 

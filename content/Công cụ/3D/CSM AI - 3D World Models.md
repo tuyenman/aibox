@@ -4,6 +4,7 @@ draft: false
 tags:
   - paid
   - trial
+  - 3D
 ---
 **CSM AI - 3D World Models** là một công cụ AI mạnh mẽ chuyên dùng để tạo và mô phỏng các mô hình thế giới 3D dựa trên dữ liệu từ hình ảnh, video và các nguồn tài liệu khác. Công cụ này sử dụng AI để xây dựng và tự động hóa việc tạo các mô hình không gian 3D chính xác và chi tiết, hỗ trợ các nhà phát triển game, kiến trúc sư, nhà thiết kế nội thất và các chuyên gia trong lĩnh vực thực tế ảo (VR) và thực tế tăng cường (AR). **CSM AI - 3D World Models** giúp tiết kiệm thời gian và công sức trong quá trình tạo dựng môi trường 3D phức tạp.
 

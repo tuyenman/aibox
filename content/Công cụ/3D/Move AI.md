@@ -4,6 +4,7 @@ draft: false
 tags:
   - paid
   - trial
+  - 3D
 ---
 **Move AI** là một công cụ chuyên về motion capture (bắt chuyển động) không cần thiết bị đeo, sử dụng trí tuệ nhân tạo (AI) để chuyển đổi các chuyển động của con người từ video thành mô hình 3D. Move AI cho phép các nhà phát triển game, nhà làm phim hoạt hình và các dự án thực tế ảo (VR/AR) tái hiện các chuyển động chân thực một cách dễ dàng. Đây là một giải pháp hiệu quả chi phí so với các hệ thống motion capture truyền thống.
 

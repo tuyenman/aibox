@@ -4,6 +4,7 @@ draft: false
 tags:
   - trial
   - paid
+  - 3D
 ---
  **Genmo** là một công cụ AI sáng tạo, được thiết kế để hỗ trợ tạo ra hình ảnh động và video từ văn bản. Công nghệ AI đằng sau Genmo cho phép người dùng nhập văn bản và tạo ra các cảnh hoạt hình dựa trên nội dung đó. Công cụ này phù hợp với các nhà thiết kế, nhà sáng tạo nội dung và những người làm việc trong ngành truyền thông muốn tạo ra các tác phẩm hình ảnh động nhanh chóng và dễ dàng mà không cần phải có kỹ năng chuyên môn về đồ họa.
 

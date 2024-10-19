@@ -4,6 +4,7 @@ draft: false
 tags:
   - paid
   - trial
+  - 3D
 ---
  **Customuse** là một công cụ AI mạnh mẽ được thiết kế để tạo và tùy chỉnh quần áo, phụ kiện kỹ thuật số 3D, chủ yếu dành cho việc sử dụng trong thế giới ảo, trò chơi và các nền tảng metaverse. Người dùng có thể thiết kế các trang phục, phụ kiện theo phong cách cá nhân hoặc từ các mẫu sẵn có. Với công nghệ AI tích hợp, Customuse giúp người dùng dễ dàng tạo và tùy chỉnh quần áo 3D mà không cần kỹ năng về thiết kế đồ họa, đồng thời hỗ trợ xuất file để sử dụng trong các ứng dụng như Roblox, Zepeto, và Snap.
 

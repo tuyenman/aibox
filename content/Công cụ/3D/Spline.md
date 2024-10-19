@@ -5,6 +5,7 @@ tags:
   - free
   - paid
   - trial
+  - 3D
 ---
 **Tổng quan**: **Spline** là một công cụ thiết kế 3D trực tuyến, cho phép người dùng dễ dàng tạo và tùy chỉnh các mô hình 3D, thêm hoạt hình và hiệu ứng tương tác mà không cần cài đặt phần mềm chuyên dụng. Với giao diện thân thiện và khả năng chỉnh sửa trực tiếp trên trình duyệt, Spline đặc biệt phù hợp với các nhà thiết kế, lập trình viên và những người mới bắt đầu với thiết kế 3D.
 

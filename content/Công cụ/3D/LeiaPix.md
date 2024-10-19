@@ -5,6 +5,7 @@ tags:
   - free
   - paid
   - trial
+  - 3D
 ---
 **LeiaPix** là một công cụ AI sáng tạo giúp chuyển đổi hình ảnh tĩnh 2D thành các hình ảnh động 3D sống động. Công nghệ AI của LeiaPix cho phép tạo hiệu ứng chuyển động từ hình ảnh tĩnh, mang lại cảm giác chiều sâu và chuyển động tự nhiên cho các hình ảnh thông thường. LeiaPix phù hợp cho những người dùng sáng tạo nội dung, nhà thiết kế, và những người muốn tạo ra các nội dung hình ảnh độc đáo cho mạng xã hội, trang web hoặc các dự án cá nhân.
 

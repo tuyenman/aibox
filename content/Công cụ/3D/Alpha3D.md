@@ -4,6 +4,7 @@ draft: false
 tags:
   - paid
   - trial
+  - 3D
 ---
 **Alpha3D** là một nền tảng AI chuyên dụng giúp tạo, chuyển đổi và tối ưu hóa các mô hình 3D từ các tài liệu và hình ảnh. Công cụ này đặc biệt hữu ích cho các nhà thiết kế, kỹ sư, và nhà phát triển trò chơi điện tử muốn tiết kiệm thời gian và công sức trong quá trình dựng hình 3D. **Alpha3D** hỗ trợ tự động hóa việc chuyển đổi từ bản vẽ 2D, hình ảnh chụp hoặc dữ liệu mô phỏng thành các mô hình 3D chất lượng cao, từ đó tối ưu hóa quy trình thiết kế và sáng tạo nội dung.
 

@@ -4,6 +4,7 @@ draft: false
 tags:
   - paid
   - trial
+  - 3D
 ---
 **Pixcap** là một nền tảng tạo và chỉnh sửa mô hình 3D trực tuyến mạnh mẽ, sử dụng công nghệ AI để đơn giản hóa quá trình thiết kế đồ họa 3D. Với Pixcap, người dùng có thể nhanh chóng tạo và chỉnh sửa các mô hình 3D phức tạp mà không cần phần mềm đồ họa chuyên sâu. Pixcap phù hợp với các nhà phát triển game, nhà thiết kế 3D, và những người làm trong các lĩnh vực sáng tạo nội dung số muốn tối ưu hóa quy trình làm việc và nâng cao hiệu quả thiết kế.
 
