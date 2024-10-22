@@ -39,6 +39,7 @@ export default (() => {
         <meta property="og:height" content="675" />
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
+        <meta name="google-site-verification" content="_4jqlX02cxWbEwfw7ZLCNTi0INyuj-F-OOwNQxyN2Nc" />
         <meta name="generator" content="Quartz" />
         {css.map((href) => (
           <link key={href} href={href} rel="stylesheet" type="text/css" spa-preserve />
