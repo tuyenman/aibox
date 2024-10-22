@@ -1,5 +1,8 @@
 ---
 title: DreamPress
-draft: true
+draft: false
 tags:
+  - paid
+  - trial
+  - Chatbot
 ---

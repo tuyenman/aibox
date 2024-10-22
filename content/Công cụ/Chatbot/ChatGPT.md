@@ -46,9 +46,9 @@ tags:
 
 ## So sánh với các công cụ khác cùng loại
 
-- **ChatGPT vs. Google Bard**: Cả hai đều là mô hình ngôn ngữ mạnh mẽ, nhưng ChatGPT nổi bật với khả năng hội thoại tự nhiên hơn, trong khi Google Bard có thể trả lời câu hỏi trực tiếp từ dữ liệu thời gian thực.
-- **ChatGPT vs. Jasper AI**: Jasper AI tập trung vào việc tạo nội dung cho các chiến dịch marketing, trong khi ChatGPT có phạm vi rộng hơn, bao gồm viết nội dung và hỗ trợ đa dạng chủ đề từ học thuật đến tư vấn.
-- **ChatGPT vs. Bing Chat**: ChatGPT mạnh hơn trong khả năng xử lý ngôn ngữ tự nhiên và tương tác dài hạn, trong khi Bing Chat tích hợp với công cụ tìm kiếm Bing để cung cấp các kết quả tìm kiếm cụ thể hơn.
+- **ChatGPT vs. Google Bard**: Cả hai đều là mô hình ngôn ngữ mạnh mẽ, nhưng ChatGPT nổi bật với khả năng hội thoại tự nhiên hơn, trong khi [[Google Bard]] có thể trả lời câu hỏi trực tiếp từ dữ liệu thời gian thực.
+- **ChatGPT vs. Jasper AI**: [[Jasper AI]] tập trung vào việc tạo nội dung cho các chiến dịch marketing, trong khi ChatGPT có phạm vi rộng hơn, bao gồm viết nội dung và hỗ trợ đa dạng chủ đề từ học thuật đến tư vấn.
+- **ChatGPT vs. Bing Chat**: ChatGPT mạnh hơn trong khả năng xử lý ngôn ngữ tự nhiên và tương tác dài hạn, trong khi [[Bing Chat]] tích hợp với công cụ tìm kiếm Bing để cung cấp các kết quả tìm kiếm cụ thể hơn.
 
 ## Ứng dụng thực tế
 

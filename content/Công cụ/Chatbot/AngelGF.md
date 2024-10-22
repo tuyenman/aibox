@@ -47,9 +47,9 @@ tags:
 
 ## So sánh với các công cụ khác cùng loại
 
-- **AngelGF vs. Replika**: Cả hai đều cung cấp trải nghiệm trò chuyện AI cá nhân hóa, nhưng AngelGF nhấn mạnh nhiều hơn vào khía cạnh hỗ trợ cảm xúc và phát triển kỹ năng giao tiếp, trong khi Replika tập trung vào mối quan hệ cảm xúc và hỗ trợ tâm lý.
-- **AngelGF vs. ChatGPT**: ChatGPT là một nền tảng trò chuyện AI đa mục đích với khả năng xử lý nhiều tình huống phức tạp, trong khi AngelGF chuyên sâu hơn vào trò chuyện cá nhân hóa và hỗ trợ tương tác xã hội.
-- **AngelGF vs. Cleverbot**: Cleverbot chủ yếu tập trung vào các cuộc trò chuyện giải trí đơn giản, trong khi AngelGF cung cấp trải nghiệm tương tác sâu hơn với các tính năng hỗ trợ cá nhân và ghi nhớ thông tin.
+- **AngelGF vs. [[Replika]]**: Cả hai đều cung cấp trải nghiệm trò chuyện AI cá nhân hóa, nhưng AngelGF nhấn mạnh nhiều hơn vào khía cạnh hỗ trợ cảm xúc và phát triển kỹ năng giao tiếp, trong khi Replika tập trung vào mối quan hệ cảm xúc và hỗ trợ tâm lý.
+- **AngelGF vs. ChatGPT**: [[ChatGPT]] là một nền tảng trò chuyện AI đa mục đích với khả năng xử lý nhiều tình huống phức tạp, trong khi AngelGF chuyên sâu hơn vào trò chuyện cá nhân hóa và hỗ trợ tương tác xã hội.
+- **AngelGF vs. Cleverbot**: [[Cleverbot]] chủ yếu tập trung vào các cuộc trò chuyện giải trí đơn giản, trong khi AngelGF cung cấp trải nghiệm tương tác sâu hơn với các tính năng hỗ trợ cá nhân và ghi nhớ thông tin.
 
 ## Ứng dụng thực tế
 

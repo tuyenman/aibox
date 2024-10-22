@@ -47,8 +47,8 @@ tags:
 
 ## So sánh với các công cụ khác cùng loại
 
-- **Chad AI vs. ManyChat**: Cả hai đều cung cấp nền tảng tạo chatbot không cần lập trình, nhưng Chad AI tập trung nhiều vào tự động hóa bán hàng và chăm sóc khách hàng đa kênh, trong khi ManyChat có tính năng tích hợp SMS mạnh hơn.
-- **Chad AI vs. Chatfuel**: Chatfuel chủ yếu tập trung vào Facebook Messenger và Instagram, trong khi Chad AI mở rộng thêm tích hợp với nhiều kênh khác nhau, bao gồm cả website và các ứng dụng khác.
+- **Chad AI vs. ManyChat**: Cả hai đều cung cấp nền tảng tạo chatbot không cần lập trình, nhưng Chad AI tập trung nhiều vào tự động hóa bán hàng và chăm sóc khách hàng đa kênh, trong khi [[ManyChat]] có tính năng tích hợp SMS mạnh hơn.
+- **Chad AI vs. Chatfuel**: [[Chatfuel]] chủ yếu tập trung vào Facebook Messenger và Instagram, trong khi Chad AI mở rộng thêm tích hợp với nhiều kênh khác nhau, bao gồm cả website và các ứng dụng khác.
 - **Chad AI vs. MobileMonkey**: MobileMonkey có khả năng tích hợp đa nền tảng, nhưng Chad AI có ưu thế trong việc cung cấp các công cụ tự động hóa bán hàng và theo dõi tương tác khách hàng chi tiết.
 
 ## Ứng dụng thực tế

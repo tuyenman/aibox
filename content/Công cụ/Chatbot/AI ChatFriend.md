@@ -49,7 +49,7 @@ tags:
 
 - **AI ChatFriend vs. Replika**: Cả hai đều cung cấp trải nghiệm trò chuyện AI cá nhân hóa, nhưng Replika có thể mạnh hơn trong việc phát triển mối quan hệ sâu sắc, trong khi AI ChatFriend tập trung vào giao tiếp hàng ngày và hỗ trợ cảm xúc cơ bản.
 - **AI ChatFriend vs. Cleverbot**: Cleverbot chủ yếu dành cho trò chuyện giải trí đơn giản, trong khi AI ChatFriend cung cấp nhiều tính năng cá nhân hóa và tư vấn cảm xúc.
-- **AI ChatFriend vs. ChatGPT**: ChatGPT đa dụng và có thể xử lý nhiều chủ đề phức tạp hơn, trong khi AI ChatFriend tập trung hơn vào việc trở thành một người bạn ảo thân thiện và hỗ trợ cảm xúc.
+- **AI ChatFriend vs. ChatGPT**: [[ChatGPT]] đa dụng và có thể xử lý nhiều chủ đề phức tạp hơn, trong khi AI ChatFriend tập trung hơn vào việc trở thành một người bạn ảo thân thiện và hỗ trợ cảm xúc.
 
 ## Ứng dụng thực tế
 

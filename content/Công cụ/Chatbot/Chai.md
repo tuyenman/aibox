@@ -47,9 +47,9 @@ tags:
 
 ## So sánh với các công cụ khác cùng loại
 
-- **Chai vs. Replika**: Cả hai đều là công cụ trò chuyện với AI, nhưng Replika tập trung vào việc xây dựng mối quan hệ cảm xúc và hỗ trợ tâm lý, trong khi Chai mang lại trải nghiệm giao tiếp đa dạng hơn với nhiều chủ đề và chatbot khác nhau.
-- **Chai vs. ChatGPT**: ChatGPT có khả năng xử lý nhiều tình huống phức tạp và hỗ trợ các chủ đề chuyên sâu, trong khi Chai tập trung vào việc tạo ra trải nghiệm giao tiếp linh hoạt, cá nhân hóa hơn thông qua các chatbot có sẵn.
-- **Chai vs. Cleverbot**: Cleverbot chủ yếu được dùng để trò chuyện đơn giản và giải trí, trong khi Chai có nhiều tính năng tùy chỉnh hơn, phù hợp cho nhiều mục đích khác nhau như học tập, tư vấn hoặc hỗ trợ.
+- **Chai vs. Replika**: Cả hai đều là công cụ trò chuyện với AI, nhưng [[Replika]] tập trung vào việc xây dựng mối quan hệ cảm xúc và hỗ trợ tâm lý, trong khi Chai mang lại trải nghiệm giao tiếp đa dạng hơn với nhiều chủ đề và chatbot khác nhau.
+- **Chai vs. ChatGPT**: [[ChatGPT]] có khả năng xử lý nhiều tình huống phức tạp và hỗ trợ các chủ đề chuyên sâu, trong khi Chai tập trung vào việc tạo ra trải nghiệm giao tiếp linh hoạt, cá nhân hóa hơn thông qua các chatbot có sẵn.
+- **Chai vs. Cleverbot**: [[Cleverbot]] chủ yếu được dùng để trò chuyện đơn giản và giải trí, trong khi Chai có nhiều tính năng tùy chỉnh hơn, phù hợp cho nhiều mục đích khác nhau như học tập, tư vấn hoặc hỗ trợ.
 
 ## Ứng dụng thực tế
 
