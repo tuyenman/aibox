@@ -2,9 +2,9 @@
 title: 
 draft: false
 tags:
+  - trial
+  - paid
 ---
-#freemium #paid #trial
-
 **Hot Talks AI** là một nền tảng độc đáo cho phép người dùng tạo và tương tác với các nhân vật AI cá nhân hóa trong các cuộc trò chuyện thực tế và nhập vai. Sử dụng công nghệ AI tiên tiến, công cụ này mang đến những trải nghiệm giao tiếp giống con người, giúp tạo cảm giác gần gũi và chân thực cho người dùng. Người dùng có thể tùy chỉnh ngoại hình, tính cách và phong cách hội thoại của các nhân vật AI để phù hợp với nhu cầu của mình.
 
 **Website chính thức**: [Hot Talks AI](https://hottalks.ai)

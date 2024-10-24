@@ -9,7 +9,7 @@ tags:
 ---
 **Audionotes** là một công cụ AI hỗ trợ ghi âm và chuyển đổi giọng nói thành văn bản. Công cụ này giúp người dùng dễ dàng ghi lại các ghi chú, cuộc họp, bài giảng hoặc bất kỳ cuộc trò chuyện nào và tự động chuyển đổi chúng thành văn bản để dễ dàng chỉnh sửa và lưu trữ. **Audionotes** giúp tiết kiệm thời gian và tăng cường năng suất, đặc biệt là đối với những người không muốn hoặc không có thời gian để ghi chép thủ công. Công cụ này lý tưởng cho sinh viên, doanh nhân, nhà báo, và bất kỳ ai cần ghi lại thông tin quan trọng từ âm thanh.
 
-- **Website chính**: [https://www.audionotes.com](https://www.audionotes.com)
+- **Website chính**: [https://www.audionotes.ai](https://www.audionotes.ai)
 - **Các kênh mạng xã hội**:
     - [Facebook](https://www.facebook.com/audionotes)
     - [Twitter (X)](https://www.twitter.com/audionotes)
