@@ -17,3 +17,5 @@ Hi vọng trang web này giúp ích cho các bạn. Dưới đây là những n�
 ## Tổng hợp các công cụ AI
 
  [[Công cụ/3D/index|3D]] | [[Công cụ/Chatbot/index|Chatbot]]
+
+> Nội dung website vẫn đang trong giai đoạn phát triển. Mọi nội dung góp ý xin gửi về admin@aibox.io.vn
